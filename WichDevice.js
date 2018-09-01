@@ -57,7 +57,7 @@ export class WichDevice {
     getClientOs() {
         var userAgent = navigator.userAgent;
         var platform = navigator.platform;
-        var os = null;
+        var os = 'unknown';
         if (this.MAC_PLATFORMS.indexOf(platform) !== -1) {
             os = 'Mac OS';
         } else if (this.IOS_PLATFORMS.indexOf(platform) !== -1) {
