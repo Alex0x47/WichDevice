@@ -1,6 +1,6 @@
 {
   "name": "wich-device",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Retrieve data about devices and clients using your app",
   "main": "index.js",
   "directories": {
