@@ -1,0 +1,28 @@
+{
+  "name": "wich-device",
+  "version": "0.0.2",
+  "description": "Retrieve data about devices and clients using your app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex0x47/WichDevice.git"
+  },
+  "keywords": [
+    "device",
+    "javascript",
+    "client",
+    "os"
+  ],
+  "author": "Alexandre Grisey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex0x47/WichDevice/issues"
+  },
+  "homepage": "https://github.com/Alex0x47/WichDevice#readme"
+}
