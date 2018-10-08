@@ -4,7 +4,6 @@ Easily find what device the client is using
 ## NOT READY FOR PRODUCTION USE ##
 
 ** TODO **
-* Make this a npm module
 
 ## Usage
 ### hasNotch(device)
